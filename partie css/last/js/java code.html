@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="chat.css">
+    <title>chatbot</title>
+</head>
+<body background="pexels-photo-309724.jpeg" >
+    <div class="contenaire">
+        <h1>once upon a time</h1>
+        <div class="input">
+            <input type="text" id="questionBox" 
+            onkeydown="if(event.keyCode == 13){getAnswer()}"
+            placeholder="posez votre question!">
+        </div>
+          <p id="answerBox">la reponse sera  affichée ici</p>
+    </div>
+    <script src="chat.js"></script>
+</body>
+</html>

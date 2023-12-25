@@ -1,0 +1,76 @@
+ 
+
+
+.logo-slide  img{ 
+width: 134px;
+float: left;
+   
+}
+.nac  {
+    margin-left: 39%;
+   }
+
+   .nac a{
+padding: 14px 16px;
+}
+.nac h1 {
+    display: inline-block;
+    color: black;
+    background-color: rgb(235, 142, 142);
+   font-style: oblique;
+    
+}
+.na  {
+    margin-left: 39%;
+   }
+
+
+.na h1 {
+    display: inline-block;
+    color: black;
+    background-color: rgb(195, 235, 142);
+   font-style: oblique;
+
+   } 
+   
+ .login-slide  h2 {
+    color: black;
+    
+    padding: 10px 27px ;
+    margin-right: 87%;
+    margin-top: 20%;
+    background-color: rgb(175, 96, 5);
+    text-decoration: none;
+   }
+.logo-slide  center {
+    display: inline-block;
+    margin-left: 25%;
+}
+
+.logo-slide  center  h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+img{
+float: right;
+width: 50%;
+ }
+.lec p{
+    font-style: oblique;
+   margin-top:10%;
+   font-size: larger;
+}
+ .contact  H1 {
+   color: brown;
+   background-color: rgb(29, 26, 22);
+   margin-right: 70%;
+   font-style: oblique;
+ 
+}
+ul{
+    margin-top: 12%;
+    color: aliceblue;
+    background-color: rgb(138, 36, 36);
+    margin-right: 70%;
+  
+}
+
